@@ -1,3 +1,7 @@
 streamlit
-numpy
 pandas
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+textblob
