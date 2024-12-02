@@ -53,7 +53,7 @@ import numpy as np
 
 st.subheader("Importing the Dataset")
 
-df = pd.read_csv("C:\\Users\\ASUS\\Downloads\\Musical_instruments_reviews.csv")
+df = pd.read_csv("C:\Users\lenovo\Downloads\Musical_instruments_reviews.csv")
 
 
 
