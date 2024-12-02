@@ -5,7 +5,7 @@ st.title("Sentiment Analyser App")
 
 st.subheader("What is Sentiment Analysis?")
 
-st.text_area("Sentiment analysis  is a natural language processing (NLP) technique that involves")
+st.text("Sentiment analysis  is a natural language processing (NLP) technique that involves")
 st.text(" the use of computational methods to determine the sentiment or emotional tone")
 st.text("expressed in a piece of text. The goal of sentiment analysis is to understand ")
 st.text("and classify the sentiment of the text as positive, negative, neutral.")
