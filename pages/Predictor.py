@@ -1,6 +1,6 @@
 import streamlit as st
 from nltk.sentiment import SentimentIntensityAnalyzer
-import matplotlib.pyplot as plt
+
 import seaborn as sns
 import nltk
 
@@ -8,6 +8,7 @@ import nltk
 import matplotlib
 import os
 os.environ['MATPLOTLIBDATA'] = matplotlib.get_data_path()
+import matplotlib.pyplot as plt
 
 # Download the VADER lexicon
 nltk.download('vader_lexicon')
