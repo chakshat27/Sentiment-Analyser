@@ -43,7 +43,7 @@ st.markdown(
     """
     <hr>
     <footer style="text-align: center; font-size: small; color: gray;">
-        © 2024 Sentiment Analyser App. All rights reserved. | Created By- Chakshat Bali , Savi Chopra
+        © 2023 Sentiment Analyser App. All rights reserved. | Created By- Chakshat Bali , Savi Chopra
     </footer>
     """,
     unsafe_allow_html=True
