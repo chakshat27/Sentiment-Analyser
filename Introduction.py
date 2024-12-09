@@ -19,7 +19,7 @@ st.markdown(
     """
     <hr>
     <footer style="text-align: center; font-size: small; color: gray;">
-        © 2023 Sentiment Analyser App.| Created by Chakshat Bali , Savi Chopra
+        © 2023 Sentiment Analyser App | Created by Chakshat Bali , Savi Chopra
     </footer>
     """,
     unsafe_allow_html=True
